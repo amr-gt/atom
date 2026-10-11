@@ -1,5 +1,6 @@
 return {
     version = "1.0", 
+    customizations = { 
     ["jeep"] = {
         paints = {
             "hill_climber_10th_anniversary_premium","jeep_flames","jeep_graphite",
@@ -515,4 +516,5 @@ return {
             "rocketkart_tire-synth_epic","rocketkart_tire-vip",
         },
     },
+    }
 }
