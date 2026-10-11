@@ -1,4 +1,5 @@
 return {
+    version = "1.0", 
     ["jeep"] = {
         paints = {
             "hill_climber_10th_anniversary_premium","jeep_flames","jeep_graphite",
