@@ -1,5 +1,5 @@
 return {
-    version = "1.1", 
+    version = "1.2", 
     customizations = { 
     ["jeep"] = {
         paints = {
@@ -460,12 +460,12 @@ return {
             "atv_royale_rare","atv_sport-gerbera_rare","atv_sport-keke_rare","atv_camo_epic",
             "atv_circuit_epic","atv_circus_epic","atv_moo_epic","atv_sport-flame_epic",
             "atv_sport-flameblue_epic","atv_futuristic_premium","atv_greek_premium",
-            "atv_halloween25_mythic","atv_shark_premium","VIP",
+            "atv_shark_premium", "atv_oldbill_premium","atv_halloween25_mythic", "VIP",
         },
         wheels = {
             "atv_tire-road_common","atv_tire-camo_epic","atv_tire-circuit_epic",
             "atv_default","atv_tire-futuristic_premium","atv_tire-greek_premium",
-            "atv_tire-halloween25_mythic","atv_tire-shark_premium","atv_tire-VIP",
+            "atv_tire-shark_premium", "atv_tire-oldbill_premium", "atv_tire-halloween25_mythic","atv_tire-VIP",
         },
     },
     ["super_offroad"] = {
@@ -477,14 +477,14 @@ return {
             "super_offroad_beeple_epic","super_offroad_beeple_yellow_epic",
             "super_offroad_magenta_epic","super_offroad_cny26_premium",
             "super_offroad_beeple_pop_premium","super_offroad_tactical_blue_premium",
-            "super_offroad_tactical_green_premium","VIP",
+            "super_offroad_tactical_green_premium", "super_offroad_halloween2026_premium", "VIP",
         },
         wheels = {
             "super_offroad_tire-cny26_premium","super_offroad_tire-roller",
             "super_offroad_tire-roller_rusty","super_offroad_tire-gear",
             "super_offroad_tire-gear_grimy","super_offroad_default",
             "super_offroad_tire-tactical_blue_premium",
-            "super_offroad_tire-tactical_green_premium","super_offroad_tire-vip",
+            "super_offroad_tire-tactical_green_premium", "super_offroad_tire-halloween26_premium", "super_offroad_tire-vip",
         },
     },
     ["stock"] = {
