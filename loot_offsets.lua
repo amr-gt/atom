@@ -11,7 +11,8 @@
 --
 -- BAD/SKIP: customChests (0x140), upgrades (0x1D0) — structure
 -- pawa jayni. chests (0xF8, List<int>) — ChestDefinition pawa
--- jayni, tai valid id/ index chhara useful na.
+-- jayni, tai index guess kore test korte hobe (game JSON e
+-- chest name ache: "common", "epic" — probable index 0/1).
 -- ============================================================
 return {
     version = "1.0",
@@ -45,5 +46,10 @@ return {
         themes       = {off = 0xE0,  size = 0x18, str = {{0x00, "id"}}},  -- unlockEditorThemes
         backgrounds  = {off = 0x1A0, size = 0x18, str = {{0x00, "id"}}},  -- unlockHomeBackgrounds
         boosters     = {off = 0x1B8, size = 0x18, str = {{0x00, "id"}}},  -- boosters
+
+        -- ======== EXPERIMENTAL ========
+        -- chests: List<int> (ChestDefinition pawa jayni — index guess:
+        -- 0 = common? / 1 = epic? — game JSON e chest name "common"/"epic")
+        chests     = {off = 0xF8,  size = 4,    int = {{0x00, "chest"}}},
     },
 }
