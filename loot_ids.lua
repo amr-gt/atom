@@ -4,6 +4,7 @@ return {
 
     maps = {
         {id = "countryside_01", name = "Countryside"},
+        {id = "crystal_caverns_distance", name = "The Great Below"},
         {id = "nationalpark", name = "Nationalpark"},
         {id = "forest", name = "Forest"},
         {id = "city", name = "City"},

@@ -7,7 +7,6 @@ return {
         wheels           = {off = 0xB0,  size = 0x48, str = {{0x00, "vehicleId"}, {0x18, "partId"}, {0x30, "variantId"}}},
         parts            = {off = 0x158, size = 0x38, str = {{0x00, "id"}, {0x18, "vehicleId"}}, int = {{0x30, "amount"}, {0x34, "rarity"}}},
         currencies       = {off = 0x128, size = 0x20, str = {{0x00, "currency"}}, int = {{0x18, "amount"}}},
-        vehicles         = {off = 0x50,  size = 0x18, str = {{0x00, "id"}}},
         maps             = {off = 0xC8,  size = 0x18, str = {{0x00, "id"}}},
         themes           = {off = 0xE0,  size = 0x18, str = {{0x00, "id"}}},
         backgrounds      = {off = 0x1A0, size = 0x18, str = {{0x00, "id"}}},
