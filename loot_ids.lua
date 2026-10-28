@@ -467,5 +467,8 @@ return {
     {id = "win_streak_shield", name = "Win Streak Shield"},
     {id = "gem_spawn_token", name = "Gem Spawn"},
     {id = "style_points", name = "Style Points"},
+    {id = "the-climb-coin", name = "Climb Coin"},
+    {id = "the-climb-gem", name = "Canyon Coin"},
+    {id = "bonus_points", name = "Loyalty Bits"},
 }
 }
