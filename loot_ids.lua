@@ -454,9 +454,9 @@ return {
     {id = "challenge_tickets", name = "Challenge Tickets"},
     {id = "special_tickets", name = "Special Tickets"},
     {id = "video_skips", name = "Video Skip Tickets"},
-    {id = "adventure_token", name = "Adventure Token"},
+    {id = "adventure_token", name = "Adventure Tokens"},
     {id = "vehicle_blueprint", name = "Vehicle Blueprints"},
-    {id = "gacha_token", name = "SkyRocks (Pink Gems)"},
+    {id = "gacha_token", name = "Skyrock"},
     {id = "event_points", name = "Event Points"},
     {id = "scrap", name = "Scraps"},
     {id = "research_points", name = "Research Points"},
@@ -469,6 +469,8 @@ return {
     {id = "style_points", name = "Style Points"},
     {id = "the-climb-coin", name = "Climb Coin"},
     {id = "the-climb-gem", name = "Canyon Coin"},
+    {id = "the-climb-mission-common", name = "Climb Relic"},
+    {id = "the-climb-mission-rare", name = "Rare Climb Relic"},
     {id = "bonus_points", name = "Loyalty Bits"},
 }
 }
