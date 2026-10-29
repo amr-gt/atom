@@ -1,5 +1,5 @@
 return {
-    version = "1.2", 
+    version = "1.3", 
     customizations = { 
     ["jeep"] = {
         paints = {
@@ -493,12 +493,13 @@ return {
             "stocker_orange_common","stocker_blue_common","stocker_bluestar_rare",
             "stocker_darkstar_rare","stocker_darkstripe_rare","stocker_whitestripe_rare",
             "stock_wave_epic","stock_circuit-orange_epic","stock_circuit-green_epic",
-            "stock_abstract_epic","stock_6-7_premium","stock_drak_premium",
+            "stock_abstract_epic", "stock_10y_white_premium", "stock_6-7_premium","stock_drak_premium",
             "stock_flame_mythic","VIP",
         },
         wheels = {
             "stock_default","stock_tire-circuit-green_epic","stock_tire-circuit-orange_epic",
-            "stock_tire-wave_epic","stock_tire-abstract_epic","stock_tire-6-7-premium",
+            "stock_tire-wave_epic","stock_tire-abstract_epic",
+                "stock_tire-10y_white_premium", "stock_tire-6-7-premium",
             "stock_tire-drak_premium","stock_tire-flame_mythic","stock_tire-vip",
         },
     },
