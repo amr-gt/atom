@@ -451,6 +451,8 @@ return {
     },
 
     currencies = {
+    {id = "coin_doubler", name = "COIN DOUBLER"},
+    {id = "collectible_coin_doubler", name = "COLLECTIBLE COIN DOUBLER"},
     {id = "challenge_tickets", name = "Challenge Tickets"},
     {id = "special_tickets", name = "Special Tickets"},
     {id = "video_skips", name = "Video Skip Tickets"},
