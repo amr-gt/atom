@@ -464,7 +464,7 @@ return {
     {id = "reroll_parts_token", name = "Reroll Part Token"},
     {id = "rank_doubler", name = "Cup Points Doubler"},
     {id = "chest_key", name = "Chest Key"},
-    {id = "win_streak_shield", name = "Win Streak Shield"},
+    {id = "winstreak_shield", name = "Win Streak Shield"},
     {id = "gem_spawn_token", name = "Gem Spawn"},
     {id = "style_points", name = "Style Points"},
     {id = "the-climb-coin", name = "Climb Coin"},
