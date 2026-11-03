@@ -451,12 +451,12 @@ return {
     },
 
     currencies = {
-    {id = "coin_doubler", name = "COIN DOUBLER"},
-    {id = "collectible_coin_doubler", name = "COLLECTIBLE COIN DOUBLER"},
+    {id = "coin_doubler", name = "Coin Doubler"},
+    {id = "collectible_coin_doubler", name = "Collectible Coin Doubler"},
     {id = "challenge_tickets", name = "Challenge Tickets"},
     {id = "special_tickets", name = "Special Tickets"},
     {id = "video_skips", name = "Video Skip Tickets"},
-    {id = "adventure_token", name = "Adventure Tokens"},
+    {id = "adventure_token", name = "Adventure Token"},
     {id = "vehicle_blueprint", name = "Vehicle Blueprints"},
     {id = "gacha_token", name = "Skyrock"},
     {id = "event_points", name = "Event Points"},
