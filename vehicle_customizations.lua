@@ -1,6 +1,6 @@
 return {
-    version = "1.3", 
-    customizations = { 
+    version = "1.3",
+    customizations = {
     ["jeep"] = {
         paints = {
             "hill_climber_10th_anniversary_premium","jeep_flames","jeep_graphite",
@@ -499,7 +499,7 @@ return {
         wheels = {
             "stock_default","stock_tire-circuit-green_epic","stock_tire-circuit-orange_epic",
             "stock_tire-wave_epic","stock_tire-abstract_epic",
-                "stock_tire-10y_white_premium", "stock_tire-6-7-premium",
+            "stock_tire-10y_white_premium", "stock_tire-6-7-premium",
             "stock_tire-drak_premium","stock_tire-flame_mythic","stock_tire-vip",
         },
     },
