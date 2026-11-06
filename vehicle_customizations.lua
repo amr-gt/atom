@@ -1,5 +1,5 @@
 return {
-    version = "1.5",
+    version = "1.6",
     customizations = {
     ["jeep"] = {
         paints = {
@@ -50,7 +50,7 @@ return {
             "superjeep_camo_hue","superjeep_safari_epic","superjeep_swim_premium",
             "hill_climber_mk2_saltmaker_premium","superjeep_halloween","superjeep_hue_blue",
             "superjeep_hue_green","superjeep_ninja","superjeep_pro","superjeep_superhero",
-            "superjeep_xmas","VIP",
+            "superjeep_xmas", "superjeep_electrified_premium", "VIP",
         },
         wheels = {
             "jeep_tire-hcr","jeep_tire-motorcycle","jeep_tire-old","jeep_tire-simple",

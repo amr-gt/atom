@@ -1,6 +1,6 @@
 return {
-    version = "1.0",
-    updated = "2026-10-28",
+    version = "2.0",
+    updated = "2026-10-11",
 
     maps = {
         {id = "countryside_01", name = "Countryside"},
@@ -164,6 +164,8 @@ return {
     },
 
     driverAssets = {
+        "shocked_bill_premium",
+        "matti_premium",
         "10th_anniversary_bill_premium",
                     "abstract_character",
                     "alien",
