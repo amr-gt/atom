@@ -1,5 +1,5 @@
 return {
-    version = "2.0",
+    version = "2.1",
     updated = "2026-10-11",
 
     maps = {
@@ -408,6 +408,7 @@ return {
     },
 
     driverAnims = {
+        "itemraingifts",
         "abduction",
                     "banjo",
                     "big-sad",
