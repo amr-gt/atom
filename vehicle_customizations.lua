@@ -1,5 +1,5 @@
 return {
-    version = "1.6",
+    version = "1.7",
     customizations = {
     ["jeep"] = {
         paints = {
@@ -511,12 +511,13 @@ return {
             "rocketkart_darkburst_rare","rocketkart_speckled_rare","rocketkart_starburst_rare",
             "rocketkart_swirls_rare","rocketkart_swoop_rare","rocketkart_crimson_epic",
             "rocketkart_greenblack_epic","rocketkart_orchid_epic","rocketkart_synth_epic",
-            "rocketkart_angler_premium", "VIP",
+            "rocketkart_angler_premium", "rocketkart_bluegold_premium", "VIP",
         },
         wheels = {
             "rocketkart_tire-rare","rocketkart_tire-crimson_epic",
             "rocketkart_tire-greenblack_epic","rocketkart_tire-orchid_epic",
-            "rocketkart_tire-synth_epic", "rocketkart_tire-angler_premium", "rocketkart_tire-vip",
+            "rocketkart_tire-synth_epic", "rocketkart_tire-angler_premium", 
+            "rocketkart_tire-bluegold_premium", "rocketkart_tire-vip",
         },
     },
     }
