@@ -1,6 +1,6 @@
 return {
-    version = "2.1",
-    updated = "2026-10-11",
+    version = "2.2",
+    updated = "2026-11-25",
 
     maps = {
         {id = "countryside_01", name = "Countryside"},
@@ -64,9 +64,13 @@ return {
         {id = "arcade_rafter", name = "Arcade Rafter"},
         {id = "arcade_wall", name = "Arcade Wall"},
         {id = "arcade_floor", name = "Arcade Floor"},
+        {id = "bomber_rafter", name = "Spaceship Rafter"},
+        {id = "bomber_wall", name = "Spaceship Wall"},
+        {id = "bomber_floor", name = "Spaceship Floor"},
     },
 
     homeProps = {
+        {id = "event_turkey", name = "Roast Turkey"},
         {id = "stock_neon_sign", name = "Gas Neon Sign"},
         {id = "stock_potted_cactus", name = "Potted Cactus"},
         {id = "stock_car_calendar", name = "Car Calendar"},
