@@ -1,6 +1,6 @@
 return {
-    version = "2.2",
-    updated = "2026-11-25",
+    version = "2.3",
+    updated = "2026-11-27",
 
     maps = {
         {id = "countryside_01", name = "Countryside"},
@@ -408,7 +408,9 @@ return {
                     "yeti",
                     "zarek_premium",
                     "zephyr_premium",
-                    "zombie"
+                    "zombie",
+                    "pitcrew",
+                    "betatestdummy"
     },
 
     driverAnims = {
